@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kala</h1>
-<h3 align="center">Dedicated Computer Science student with a passion for software development and problem-solving. Proficient in Java, data structures, and algorithms, I enjoy tackling complex challenges and finding efficient solutions. Alongside my programming skills, I have a solid foundation in web development, encompassing HTML, CSS, and JavaScript, and I love building dynamic and interactive user interfaces using React.</h3>
+<h3 align="center">Dedicated software engineer with a passion for software development and problem-solving. Proficient in Java, data structures, and algorithms, I enjoy tackling complex challenges and finding efficient solutions. Alongside my programming skills, I have a solid foundation in web development, encompassing React, Next.js.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-kala-2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-kala-2003" /> </p>
